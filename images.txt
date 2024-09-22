@@ -3,3 +3,4 @@ zilliz/attu:v2.4.5
 ollama/ollama:latest
 sweagent/swe-agent:latest
 sweagent/swe-agent-run:latest
+swebench/swe-bench:latest
