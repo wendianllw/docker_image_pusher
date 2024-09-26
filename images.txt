@@ -1,7 +1,6 @@
 minio/minio:RELEASE.2024-09-09T16-59-28Z
 zilliz/attu:v2.4.5
-ollama/deepseek-coder:6.7b-instruct
-#ollama/ollama:latest
+ollama/ollama/deepseek-coder:6.7b-instruct
 sweagent/swe-agent:lates
 sweagent/swe-agent-run:latest
 swebench/swe-bench:latest
