@@ -1,6 +1,6 @@
 minio/minio:RELEASE.2024-09-09T16-59-28Z
 zilliz/attu:v2.4.5
-ollama/ollama:llama3.1
+ollama/ollama:llama3.1-8b
 sweagent/swe-agent:lates
 sweagent/swe-agent-run:latest
 swebench/swe-bench:latest
